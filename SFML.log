@@ -1,0 +1,31 @@
+﻿  Jack O'Lantern.cpp
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(5): error C2653: 'sf': is not a class or namespace name
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(5): error C2065: 'RenderWindow': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(5): error C2146: syntax error: missing ';' before identifier 'window'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(5): error C3861: 'VideoMode': identifier not found
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(5): error C3861: 'window': identifier not found
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(7): error C2065: 'window': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(7): error C2228: left of '.isOpen' must have class/struct/union
+  c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(7): note: type is 'unknown-type'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(9): error C2653: 'sf': is not a class or namespace name
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(9): error C2065: 'Event': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(9): error C2146: syntax error: missing ';' before identifier 'event'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(9): error C2065: 'event': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(10): error C2065: 'window': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(10): error C2228: left of '.pollEvent' must have class/struct/union
+  c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(10): note: type is 'unknown-type'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(10): error C2065: 'event': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(12): error C2065: 'event': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(12): error C2228: left of '.type' must have class/struct/union
+  c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(12): note: type is 'unknown-type'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(12): error C2653: 'sf': is not a class or namespace name
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(12): error C2065: 'Closed': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(13): error C2065: 'window': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(13): error C2228: left of '.close' must have class/struct/union
+  c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(13): note: type is 'unknown-type'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(16): error C2065: 'window': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(16): error C2228: left of '.clear' must have class/struct/union
+  c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(16): note: type is 'unknown-type'
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(17): error C2065: 'window': undeclared identifier
+c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(17): error C2228: left of '.display' must have class/struct/union
+  c:\users\student\desktop\gerardo b\sfml\sfml\jack o'lantern.cpp(17): note: type is 'unknown-type'
