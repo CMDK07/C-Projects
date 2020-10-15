@@ -1,0 +1,8 @@
+﻿  UserStory.cpp
+c:\users\calig\desktop\gerardo's id programming academy projects\gerardo's id programming academy projects\userstory\userstory\userstory.cpp(117): warning C4566: character represented by universal-character-name '\u0298' cannot be represented in the current code page (1252)
+c:\users\calig\desktop\gerardo's id programming academy projects\gerardo's id programming academy projects\userstory\userstory\userstory.cpp(117): warning C4566: character represented by universal-character-name '\u15E9' cannot be represented in the current code page (1252)
+c:\users\calig\desktop\gerardo's id programming academy projects\gerardo's id programming academy projects\userstory\userstory\userstory.cpp(118): warning C4566: character represented by universal-character-name '\u261E' cannot be represented in the current code page (1252)
+c:\users\calig\desktop\gerardo's id programming academy projects\gerardo's id programming academy projects\userstory\userstory\userstory.cpp(118): warning C4566: character represented by universal-character-name '\uFF9F' cannot be represented in the current code page (1252)
+c:\users\calig\desktop\gerardo's id programming academy projects\gerardo's id programming academy projects\userstory\userstory\userstory.cpp(118): warning C4566: character represented by universal-character-name '\u2200' cannot be represented in the current code page (1252)
+  UserStory.vcxproj -> C:\Users\calig\Desktop\Gerardo's iD Programming Academy Projects\Gerardo's iD Programming Academy Projects\UserStory\Debug\UserStory.exe
+  UserStory.vcxproj -> C:\Users\calig\Desktop\Gerardo's iD Programming Academy Projects\Gerardo's iD Programming Academy Projects\UserStory\Debug\UserStory.pdb (Full PDB)
